@@ -26,6 +26,8 @@ Projeto construído durante o curso de HTML, CSS e Javascript.
 - CSS
 - Git e Github
 
+[🔗 Clique aqui para acessar](https://luanlafayete.github.io/Projeto-TechBlog/)
+
 ## ☎ Contato
 - LinkedIn: 
 https://www.linkedin.com/in/lu%C3%A3-lafayete-salgado-42467a42/
